@@ -1,10 +1,12 @@
-.accio{
+.accio {
 	width: 150px;
-	height:150px;
-	background-color:black;
+	height: 150px;
+	background-color: black;
 }
-.hello-accio-job{
-	color:#ffffff;
+
+/* Styling the paragraph element */
+.hello-accio {
+	color: white;
 	margin-left: 32px;
-	padding:10px;
+	padding: 10px;
 }
